@@ -1,0 +1,201 @@
+Customer_ID,Gender,City,Membership,Spending_Score
+1,Female,New York,Gold,34
+2,Male,New York,Gold,65
+3,Female,Chicago,Gold,55
+4,Male,Chicago,Gold,90
+5,Male,Chicago,Platinum,43
+6,Male,New York,Platinum,74
+7,Male,New York,Platinum,30
+8,Female,Chicago,Silver,82
+9,Female,Houston,Gold,17
+10,Male,Houston,Gold,26
+11,Female,Los Angeles,Platinum,8
+12,Male,Chicago,Gold,47
+13,Male,Los Angeles,Gold,76
+14,Female,Houston,Platinum,91
+15,Male,Los Angeles,Silver,72
+16,Male,Chicago,Silver,89
+17,Female,Chicago,Silver,46
+18,Male,Chicago,Platinum,68
+19,Male,New York,Gold,33
+20,Male,Los Angeles,Platinum,1
+21,Male,Houston,Platinum,19
+22,Female,Houston,Gold,31
+23,Female,Houston,Silver,80
+24,Female,New York,Silver,14
+25,Male,New York,Platinum,53
+26,Male,Chicago,Silver,48
+27,Female,Houston,Platinum,69
+28,Male,New York,Platinum,90
+29,Male,Chicago,Gold,62
+30,Male,Houston,Gold,92
+31,Male,Los Angeles,Gold,66
+32,Female,Chicago,Platinum,64
+33,Female,New York,Gold,70
+34,Female,New York,Silver,63
+35,Male,Chicago,Silver,73
+36,Female,Chicago,Platinum,33
+37,Female,New York,Platinum,41
+38,Male,Los Angeles,Gold,89
+39,Male,Houston,Platinum,48
+40,Female,Los Angeles,Platinum,13
+41,Female,Chicago,Silver,73
+42,Female,Los Angeles,Silver,77
+43,Female,New York,Gold,31
+44,Male,Chicago,Platinum,75
+45,Female,Houston,Platinum,68
+46,Female,New York,Silver,98
+47,Male,New York,Platinum,4
+48,Female,Houston,Silver,19
+49,Male,Houston,Gold,70
+50,Male,Los Angeles,Silver,98
+51,Male,Chicago,Platinum,82
+52,Female,Houston,Gold,13
+53,Female,Houston,Silver,23
+54,Male,Chicago,Silver,83
+55,Female,Houston,Gold,75
+56,Female,Houston,Gold,1
+57,Male,Los Angeles,Silver,88
+58,Male,New York,Platinum,54
+59,Female,New York,Silver,71
+60,Male,New York,Gold,89
+61,Female,New York,Silver,85
+62,Female,Houston,Gold,15
+63,Female,Chicago,Gold,65
+64,Female,Chicago,Platinum,76
+65,Male,Los Angeles,Gold,71
+66,Male,Los Angeles,Gold,15
+67,Male,Houston,Platinum,21
+68,Male,Chicago,Gold,19
+69,Female,Chicago,Platinum,60
+70,Female,New York,Platinum,93
+71,Male,Houston,Gold,89
+72,Female,Houston,Gold,33
+73,Female,New York,Silver,49
+74,Female,Houston,Platinum,96
+75,Male,Houston,Silver,35
+76,Male,Los Angeles,Gold,44
+77,Male,Chicago,Silver,90
+78,Female,Houston,Platinum,11
+79,Male,Los Angeles,Silver,99
+80,Male,Chicago,Platinum,72
+81,Male,New York,Gold,78
+82,Male,Los Angeles,Gold,74
+83,Male,Los Angeles,Platinum,66
+84,Male,Chicago,Gold,46
+85,Female,New York,Gold,9
+86,Female,Los Angeles,Gold,3
+87,Male,Houston,Gold,85
+88,Male,Houston,Platinum,26
+89,Female,Houston,Silver,72
+90,Female,New York,Silver,48
+91,Male,Los Angeles,Gold,66
+92,Male,Houston,Silver,70
+93,Male,New York,Silver,28
+94,Male,Houston,Gold,93
+95,Female,Chicago,Gold,26
+96,Male,Los Angeles,Silver,25
+97,Male,Los Angeles,Platinum,12
+98,Male,New York,Gold,5
+99,Male,New York,Platinum,98
+100,Female,Los Angeles,Silver,48
+101,Female,Houston,Gold,37
+102,Female,Houston,Platinum,79
+103,Male,Chicago,Gold,44
+104,Male,Houston,Silver,15
+105,Female,New York,Platinum,43
+106,Male,New York,Silver,48
+107,Male,Houston,Silver,87
+108,Female,New York,Gold,70
+109,Female,Los Angeles,Platinum,46
+110,Female,Los Angeles,Silver,43
+111,Female,Houston,Silver,21
+112,Male,Los Angeles,Platinum,23
+113,Male,Los Angeles,Silver,80
+114,Female,Chicago,Silver,47
+115,Male,Chicago,Platinum,15
+116,Female,Los Angeles,Platinum,25
+117,Female,Houston,Platinum,36
+118,Male,Chicago,Platinum,75
+119,Female,New York,Gold,51
+120,Male,New York,Platinum,15
+121,Male,New York,Gold,68
+122,Male,Houston,Gold,21
+123,Male,Los Angeles,Gold,13
+124,Female,New York,Silver,86
+125,Male,Houston,Gold,19
+126,Female,Chicago,Gold,34
+127,Female,Los Angeles,Silver,78
+128,Female,Chicago,Silver,68
+129,Female,Houston,Silver,52
+130,Male,New York,Platinum,27
+131,Male,New York,Silver,29
+132,Female,Houston,Silver,28
+133,Female,New York,Gold,35
+134,Male,Los Angeles,Silver,8
+135,Female,Houston,Platinum,16
+136,Male,Chicago,Silver,36
+137,Female,Houston,Platinum,30
+138,Male,Los Angeles,Silver,18
+139,Female,Los Angeles,Silver,2
+140,Female,Houston,Silver,49
+141,Male,Houston,Silver,77
+142,Female,New York,Platinum,4
+143,Female,Los Angeles,Platinum,90
+144,Male,Houston,Gold,89
+145,Female,Houston,Platinum,94
+146,Male,Los Angeles,Silver,75
+147,Male,Houston,Gold,7
+148,Female,New York,Gold,95
+149,Female,Los Angeles,Gold,74
+150,Female,New York,Silver,39
+151,Female,New York,Platinum,13
+152,Female,New York,Silver,31
+153,Female,New York,Gold,71
+154,Female,Los Angeles,Silver,63
+155,Male,New York,Silver,56
+156,Female,New York,Platinum,42
+157,Male,Houston,Platinum,61
+158,Female,Los Angeles,Gold,42
+159,Female,Los Angeles,Silver,56
+160,Male,Chicago,Silver,36
+161,Female,Los Angeles,Platinum,84
+162,Female,Los Angeles,Silver,68
+163,Male,Chicago,Silver,7
+164,Female,Los Angeles,Silver,54
+165,Female,Los Angeles,Platinum,1
+166,Female,Los Angeles,Gold,44
+167,Male,Los Angeles,Gold,45
+168,Female,Chicago,Silver,47
+169,Female,Los Angeles,Gold,13
+170,Female,Los Angeles,Platinum,22
+171,Female,Chicago,Platinum,21
+172,Male,Houston,Gold,86
+173,Male,New York,Gold,92
+174,Female,Houston,Silver,9
+175,Female,Chicago,Gold,26
+176,Male,New York,Silver,9
+177,Male,Chicago,Silver,15
+178,Female,Chicago,Platinum,10
+179,Male,Los Angeles,Platinum,88
+180,Female,New York,Platinum,42
+181,Male,Los Angeles,Platinum,72
+182,Male,New York,Gold,24
+183,Male,Chicago,Platinum,80
+184,Male,Chicago,Gold,49
+185,Female,Houston,Platinum,26
+186,Male,New York,Gold,91
+187,Male,Los Angeles,Silver,37
+188,Female,Houston,Gold,68
+189,Male,Houston,Gold,50
+190,Male,Houston,Platinum,24
+191,Female,Los Angeles,Gold,19
+192,Male,Houston,Silver,60
+193,Female,Los Angeles,Silver,39
+194,Female,Houston,Platinum,74
+195,Female,Los Angeles,Silver,89
+196,Female,Chicago,Gold,18
+197,Male,Chicago,Silver,19
+198,Female,Chicago,Platinum,36
+199,Male,Chicago,Gold,74
+200,Male,Chicago,Platinum,97
