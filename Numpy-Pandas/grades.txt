@@ -1,0 +1,22 @@
+student_name,subject,grade
+Alice Smith,Mathematics,92
+Alice Smith,Physics,88
+Alice Smith,Chemistry,95
+Bob Johnson,Mathematics,78
+Bob Johnson,Physics,82
+Bob Johnson,Chemistry,85
+Charlie Brown,Mathematics,90
+Charlie Brown,Physics,85
+Charlie Brown,Chemistry,88
+Diana Lee,Mathematics,95
+Diana Lee,Physics,92
+Diana Lee,Chemistry,97
+Ethan Davis,Mathematics,88
+Ethan Davis,Physics,85
+Ethan Davis,Chemistry,89
+Fiona Wilson,Mathematics,93
+Fiona Wilson,Physics,91
+Fiona Wilson,Chemistry,94
+George Martin,Mathematics,87
+George Martin,Physics,84
+George Martin,Chemistry,86
